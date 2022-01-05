@@ -6,7 +6,7 @@ function Note( {id, text, date, handleDeleteNote} ) {
     // const handleClick = () =>{
     //     handleDeleteNote(id);
     // }
-    console.log(date);
+    
 
     return (
         <div className='note'>
